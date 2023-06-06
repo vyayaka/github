@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img alt="Vyayaka logo in white" src="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vyayaka/.github/assets/68323012/9a9ae9b4-b8ec-4d69-9492-9ba3c24363bd">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vyayaka/.github/assets/68323012/9a9ae9b4-b8ec-4d69-9492-9ba3c24363bd">
+  <img alt="Vyayaka logo in white" src="https://github.com/vyayaka/.github/assets/68323012/9a9ae9b4-b8ec-4d69-9492-9ba3c24363bd">
 </picture>
 
 ### 🙋‍♀️ Introduction
@@ -39,4 +39,4 @@ We kindly request that you review each of them before you start working on the r
 
   Vyayaka Logo in Orange (#FF671F) | Vyayaka Logo in White (#FFFFFF)
   :-------------------------:|:-------------------------:
-  ![Vyayaka Logo in Orange]() | ![Vyayaka Logo in White]()
+  ![Vyayaka Logo in Orange](https://github.com/vyayaka/.github/assets/68323012/0ff76a25-5838-4429-a3bd-8e221cfa51ad) | ![Vyayaka Logo in White](https://github.com/vyayaka/.github/assets/68323012/0ff76a25-5838-4429-a3bd-8e221cfa51ad)
